@@ -449,7 +449,7 @@
     width: calc(50% - 30px);
   }
   #team{
-    height: 90vh;
+    height: auto;
     padding: 70px;
     background: linear-gradient(135deg, #041d3d, crimson);
   }
